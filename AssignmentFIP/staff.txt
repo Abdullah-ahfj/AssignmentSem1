@@ -1,0 +1,25 @@
+
+Full Name: 	Abdullah Haleem
+ID: 		stf001
+Age: 		21
+Address: 	KandyRoad, Thihariya
+Salary: 	80000.00
+
+Full Name: 	Mohammed
+ID: 		stf002
+Age: 		30
+Address: 	Colombo
+Salary: 	80000.00
+
+Full Name: 	Cristiano Ronaldo
+ID: 		stf003
+Age: 		38
+Address: 	Lisbon
+Salary: 	80000.00
+
+Full Name: 	Kumar sangakkara
+ID: 		stf004
+Age: 		45
+Address: 	Colombo
+Salary: 	80000.00
+

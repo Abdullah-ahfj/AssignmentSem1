@@ -1,0 +1,27 @@
+
+Name: 	Fish Pastry
+Code: 	P001
+Qty: 		Medium
+Price: 	100.00
+
+
+Name: 	Sausage Pastry
+Code: 	P002
+Qty: 		Medium
+Price: 	100.00
+
+Name: 	Puff Pastry
+Code: 	P003
+Qty: 		Medium
+Price: 	120.00
+
+Name: 	Shortcrust Pastry
+Code: 	P004
+Qty: 		Medium
+Price: 	120.00
+
+Name: 	Chicken Pastry
+Code: 	P005
+Qty: 		Medium
+Price: 	120.00
+

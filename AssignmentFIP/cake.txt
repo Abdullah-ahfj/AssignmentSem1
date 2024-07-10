@@ -1,0 +1,26 @@
+
+Name: 	Cheese Cake
+Code: 	C001
+Qty: 		500g
+Price: 	800.00
+
+Name: 	Chocolate Cake
+Code: 	C002
+Qty: 		500g
+Price: 	500.00
+
+Name: 	Vanilla Cake
+Code: 	C003
+Qty: 		500g
+Price: 	600.00
+
+Name: 	Strawberry Cake
+Code: 	C004
+Qty: 		500g
+Price: 	700.00
+
+Name: 	Banana Cake
+Code: 	C005
+Qty: 		500g
+Price: 	600.00
+
